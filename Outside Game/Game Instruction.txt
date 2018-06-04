@@ -1,0 +1,11 @@
+- This is a small demo game scene inspired by two famous games "Limbo" and "Inside" of Playdead Studio ( www.playdead.com ) , which I finished them both, such masterpiece series. They truly motivate me to learn how to make awesome games :D
+- Also my first game lesson when self-learning Unity 2D
+
+- Game type: Puzzle-platformer adventure game
+
+- "Arrow Keys" to move the Player
+- "Esc" to pause game
+- "Space" to jump
+- Objective: Survive through the scary forest by solving the puzzles. Those puzzles can be solved with interactions from Player to Environment or Surrounding Objects in appropriate order
+
+- Enjoy!

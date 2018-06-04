@@ -1,0 +1,66 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+    Driver:   10.18.10.4653
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Software\Unity 2018.1.1f1\Project\Outside Project\Outside Game\Outside_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Software\Unity 2018.1.1f1\Project\Outside Project\Outside Game\Outside_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Software\Unity 2018.1.1f1\Project\Outside Project\Outside Game\Outside_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Software\Unity 2018.1.1f1\Project\Outside Project\Outside Game\Outside_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Software\Unity 2018.1.1f1\Project\Outside Project\Outside Game\Outside_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Software\Unity 2018.1.1f1\Project\Outside Project\Outside Game\Outside_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Software\Unity 2018.1.1f1\Project\Outside Project\Outside Game\Outside_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Software\Unity 2018.1.1f1\Project\Outside Project\Outside Game\Outside_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
+Platform assembly: E:\Software\Unity 2018.1.1f1\Project\Outside Project\Outside Game\Outside_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Software\Unity 2018.1.1f1\Project\Outside Project\Outside Game\Outside_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 59Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.718480 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.372043 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 727.
+Total: 0.698329 ms (FindLiveObjects: 0.147534 ms CreateObjectMapping: 0.035493 ms MarkObjects: 0.475530 ms  DeleteObjects: 0.037631 ms)
+
+hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.409560 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 729.
+Total: 0.405826 ms (FindLiveObjects: 0.065000 ms CreateObjectMapping: 0.023092 ms MarkObjects: 0.308752 ms  DeleteObjects: 0.007697 ms)
+
+hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.073365 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 729.
+Total: 0.640170 ms (FindLiveObjects: 0.162073 ms CreateObjectMapping: 0.034210 ms MarkObjects: 0.431484 ms  DeleteObjects: 0.009407 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4ec -> priority: 1 
+  Thread -> id: 1020 -> priority: 1 
